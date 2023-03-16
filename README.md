@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyle3600
-- 👀 I’m interested in Azure & AWS.
+- 👀 I’m interested in DevOps and Cloud.
 - 🌱 I’m currently learning Anything.
 - 💞️ I’m looking to collaborate on someone like me.
 - 📫 Reach me with kyle3600@hotmail.com
